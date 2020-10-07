@@ -1,19 +1,21 @@
 <h1>Configuração do Projeto de Testes</h1>
 BDD + Java + Cucumber + Selenium.
 
-Criar Projeto no Eclipse
-
+<h3>Criar Projeto no Eclipse</h3>
 File > New > Maven Project
-Instalação de plugin na IDE
 
+<h3>Instalação de plugin na IDE</h3>
 Help > Eclipse Marketplace > Cucumber Eclipse Plugin
-Instalar pacotes na Aplicação via Maven (pom.xml)
+
+<h3>Instalar pacotes na Aplicação via Maven (pom.xml)</h3>
 
 cucumber-java 1.2.5
-cucumber-junit 1.2.5
-selenium-java 3.141.59
-pom.xml
 
+cucumber-junit 1.2.5
+
+selenium-java 3.141.59
+
+<h3>pom.xml</h3>
 <dependencies>
 	<dependency>
 		<groupId>info.cukes</groupId>
