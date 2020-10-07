@@ -1,3 +1,19 @@
+# Sobre a configuração do projeto
+* Cucumber
+```
+O Cucumber é uma ferramenta usada para executar testes de aceitação automatizados que foram criados em um formato BDD. 
+Um de seus recursos mais destacados é a capacidade de realizar descrições funcionais de texto simples 
+(escritas numa linguagem chamada Gherkin) 
+como testes automatizados.
+```
+											####### fonte: 
+* Selenium 
+```
+Selenium é um conjunto de ferramentas de código aberto multiplataforma, usado para testar aplicações web pelo browser de forma automatizada. 
+Ele executa testes de funcionalidades da aplicação web e testes de compatibilidade entre browser e plataformas diferentes. 
+O Selenium suporta diversas linguagens de programação, como por exemplo C#, Java e Python, e vários navegadores web como o Chrome e o Firefox.
+```
+
 # Configuração do Projeto de Testes
 * BDD + Java + Cucumber + Selenium.
 
