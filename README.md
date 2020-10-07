@@ -13,7 +13,7 @@ Ele executa testes de funcionalidades da aplicação web e testes de compatibili
 O Selenium suporta diversas linguagens de programação, como por exemplo C#, Java e Python, e vários navegadores web como o Chrome e o Firefox.
 ```
 
-# Java
+* Java
 ```
 Java
 ```
