@@ -6,7 +6,6 @@ Um de seus recursos mais destacados é a capacidade de realizar descrições fun
 (escritas numa linguagem chamada Gherkin) 
 como testes automatizados.
 ```
-											####### fonte: 
 * Selenium 
 ```
 Selenium é um conjunto de ferramentas de código aberto multiplataforma, usado para testar aplicações web pelo browser de forma automatizada. 
