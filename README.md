@@ -8,6 +8,7 @@ File > New > Maven Project
 Help > Eclipse Marketplace > Cucumber Eclipse Plugin
 
 <h3>Instalar pacotes na Aplicação via Maven (pom.xml)</h3>
+
 Site para obter os plugins : https://mvnrepository.com
 
 cucumber-java 1.2.5
@@ -17,6 +18,7 @@ cucumber-junit 1.2.5
 selenium-java 3.141.59
 
 <h3>pom.xml</h3>
+
 <dependencies>
 	<dependency>
 		<groupId>info.cukes</groupId>
