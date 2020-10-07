@@ -25,13 +25,6 @@
 		<artifactId>cucumber-java</artifactId>
 		<version>1.2.5</version>
 	</dependency>
-	
-	<dependency>
-	    <groupId>org.junit.jupiter</groupId>
-	    <artifactId>junit-jupiter-api</artifactId>
-	    <version>5.5.2</version>
-	    <scope>test</scope>
-	</dependency>
 
 	<dependency>
 		<groupId>info.cukes</groupId>
