@@ -17,6 +17,8 @@ O Selenium suporta diversas linguagens de programação, como por exemplo C#, Ja
 ```
 Java
 ```
+### Acesse o link para baixar e instalar a IDE do Eclipse
+* [Download](https://www.eclipse.org/downloads/)
 
 ### Criar Projeto no Eclipse
 * File > New > Maven Project
@@ -26,7 +28,7 @@ Java
 
 ### Instalar pacotes na Aplicação via Maven (pom.xml)
 
-* Site para obter os plugins : [Maven Repository](https://mvnrepository.com)
+* Pacotes Maven : [Maven Repository](https://mvnrepository.com)
 
 * cucumber-java 1.2.5
 
